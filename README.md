@@ -1,5 +1,4 @@
 # Tictactics
-=
 
 ### Database
 ###### Player
